@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Mostafa Mousavi 👋
 
-<!--
-**mstf-dev/mstf-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst & Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I am a Materials Engineer transitioning into Data Analysis and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building real-world projects with Python and continuously improving my technical skills through hands-on learning.
+
+---
+## 🚀 Current Focus
+
+- 📊 Data Analysis
+- 🤖 Machine Learning
+- 🐍 Python
+- 📚 Building real-world projects
+
+- ## 🎯 How I Work
+
+- ✅ Consistency
+- 🎯 Focus
+- 🛡 Discipline
+
+- ## 💻 Tech Stack
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Git
+- GitHub
+
+- ## 📂 Featured Projects
+
+- 🧠 Steel Annealing Classification
+- 📈 Superstore Sales Analysis
+- 🔐 Password Manager
+
+- ## 📚 Currently Learning
+
+- SQL
+- Power BI
+- Deep Learning
+
+- ## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/mstf-dev
+- Email: mostafa.mousavi.dev@gmail.com
