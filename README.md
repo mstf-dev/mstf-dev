@@ -44,12 +44,15 @@ I believe meaningful progress comes from showing up consistently, staying focuse
 
 ### 🧠 Steel Annealing Classification
 Machine Learning classification project using the UCI Annealing dataset with data preprocessing, feature engineering, and Random Forest optimization.
+🔗 https://github.com/mstf-dev/steel-annealing-classification
 
 ### 📈 Superstore Sales Analysis
 Exploratory Data Analysis project focused on extracting business insights from retail sales data using Python, Pandas, and Matplotlib.
+🔗 https://github.com/mstf-dev/Superstore-Sales-Analysis
 
 ### 🔐 Password Manager
 A command-line password manager built with Python using modular programming and file handling.
+🔗 https://github.com/mstf-dev/password-manager
 
 ---
 
