@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.png" width="100%">
+</p>
+
 # Hi, I'm Mostafa Mousavi 👋
 
 ### Aspiring Data Analyst | Machine Learning Enthusiast
