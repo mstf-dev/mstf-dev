@@ -1,26 +1,34 @@
 # Hi, I'm Mostafa Mousavi 👋
 
-### Aspiring Data Analyst & Machine Learning Enthusiast
+### Aspiring Data Analyst | Machine Learning Enthusiast
 
-I am a Materials Engineer transitioning into Data Analysis and Machine Learning.
+I'm a Materials Engineer transitioning into **Data Analysis** and **Machine Learning**.
 
-I enjoy building real-world projects with Python and continuously improving my technical skills through hands-on learning.
+I enjoy solving real-world problems with Python, building end-to-end projects, and continuously improving my technical skills through disciplined, hands-on learning.
 
 ---
-## 🚀 Current Focus
 
-- 📊 Data Analysis
-- 🤖 Machine Learning
-- 🐍 Python
-- 📚 Building real-world projects
+## 👨‍💻 About Me
 
-- ## 🎯 How I Work
+- 🎓 B.Sc. & M.Sc. in Materials Engineering
+- 📊 Transitioning into Data Analysis & Machine Learning
+- 🐍 Passionate about Python and real-world projects
+- 🌱 Currently learning SQL, Power BI, and Deep Learning
+- 🚀 Building projects to solve practical problems and strengthen my portfolio
 
-- ✅ Consistency
-- 🎯 Focus
-- 🛡 Discipline
+---
 
-- ## 💻 Tech Stack
+## 🎯 How I Work
+
+- ✔ Consistency
+- ✔ Focus
+- ✔ Discipline
+
+I believe meaningful progress comes from showing up consistently, staying focused, and improving through continuous practice.
+
+---
+
+## 💻 Tech Stack
 
 - Python
 - NumPy
@@ -30,19 +38,30 @@ I enjoy building real-world projects with Python and continuously improving my t
 - Git
 - GitHub
 
-- ## 📂 Featured Projects
+---
 
-- 🧠 Steel Annealing Classification
-- 📈 Superstore Sales Analysis
-- 🔐 Password Manager
+## 🚀 Featured Projects
 
-- ## 📚 Currently Learning
+### 🧠 Steel Annealing Classification
+Machine Learning classification project using the UCI Annealing dataset with data preprocessing, feature engineering, and Random Forest optimization.
+
+### 📈 Superstore Sales Analysis
+Exploratory Data Analysis project focused on extracting business insights from retail sales data using Python, Pandas, and Matplotlib.
+
+### 🔐 Password Manager
+A command-line password manager built with Python using modular programming and file handling.
+
+---
+
+## 📚 Currently Learning
 
 - SQL
 - Power BI
 - Deep Learning
 
-- ## 📫 Connect with Me
+---
+
+## 📫 Connect with Me
 
 - LinkedIn: https://linkedin.com/in/mstf-dev
 - Email: mostafa.mousavi.dev@gmail.com
