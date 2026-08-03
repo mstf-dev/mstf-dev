@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-banner.png" width="100%">
+  <img src="./github-banner.png" width="100%" alt="GitHub Banner">
 </p>
 
 # Hi, I'm Mostafa Mousavi 👋
